@@ -43,6 +43,8 @@ tl.from(".hero-container p", {
     stagger: .5
 })
 }
+Page1()
+
 
 let t2 = gsap.timeline({
     scrollTrigger: {
